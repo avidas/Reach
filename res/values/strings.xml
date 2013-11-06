@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reach</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="feed_type">ALERT</string>
+    <string name="feed_desc">10 women signed up in South Africa in the past day.</string>
+
+</resources>
